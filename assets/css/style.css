@@ -1,0 +1,24 @@
+ #name {
+     text-align: left;
+     font-size: 20px;
+     color: white;
+     background-color: turquoise;
+     height: 60px;
+     width:200px;
+     text-align: center;
+     margin-left: 80px;
+     padding-top: 15px;
+
+ }
+ .buttons {float: right;
+            float: top;
+            position: relative; 
+            font-size: 20px;
+            color: lightgrey;
+            }
+.container {width: 800px;
+            background-color: lightgrey;}
+#img {width: 100px;}
+
+
+
